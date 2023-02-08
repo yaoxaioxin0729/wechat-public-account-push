@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wxef3f668838054686',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'a9e2ce8a7ec740447b9db6a099f8574e',
+  APP_SECRET: '07d3a106a4fc1aea54589fa8d7c26dec',
 
   PROVINCE: '四川',
   CITY: '成都',
@@ -54,7 +54,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oVHVO5s8a5pcDrqzy-qFc1PNk2rk',
+      id: ' gh_4b04102ed0fe',
     }
   ],
 
